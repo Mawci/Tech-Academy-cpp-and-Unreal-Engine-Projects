@@ -1,0 +1,5 @@
+﻿  Assignment_1.cpp
+  Dog.cpp
+C:\Users\Nick\Documents\TechAcademy\Tech-Academy-cpp-and-Unreal-Engine-Projects\OOP Assignment 1\OOP Assignment 1\Dog.cpp(16,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  OOP Assignment 1.vcxproj -> C:\Users\Nick\Documents\TechAcademy\Tech-Academy-cpp-and-Unreal-Engine-Projects\OOP Assignment 1\OOP Assignment 1\x64\Debug\OOP Assignment 1.exe
