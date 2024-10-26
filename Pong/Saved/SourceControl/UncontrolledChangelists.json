@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nick/Downloads/unreal-engine-4-blueprint-cplusplus-integration/02-project-setup/project-setup-exercise-files/Pong/Content/Maps/Main.umap",
+				"C:/Users/Nick/Downloads/unreal-engine-4-blueprint-cplusplus-integration/02-project-setup/project-setup-exercise-files/Pong/Content/Blueprints/BP_Ball.uasset",
+				"C:/Users/Nick/Downloads/unreal-engine-4-blueprint-cplusplus-integration/02-project-setup/project-setup-exercise-files/Pong/Content/Blueprints/BP_PaddlePlayer.uasset",
+				"C:/Users/Nick/Downloads/unreal-engine-4-blueprint-cplusplus-integration/02-project-setup/project-setup-exercise-files/Pong/Content/Blueprints/BP_PongGameMode.uasset",
+				"C:/Users/Nick/Downloads/unreal-engine-4-blueprint-cplusplus-integration/02-project-setup/project-setup-exercise-files/Pong/Content/Blueprints/BP_PongBoundary.uasset",
+				"C:/Users/Nick/Downloads/unreal-engine-4-blueprint-cplusplus-integration/02-project-setup/project-setup-exercise-files/Pong/Content/Blueprints/BP_PaddleAI.uasset",
+				"C:/Users/Nick/Downloads/unreal-engine-4-blueprint-cplusplus-integration/02-project-setup/project-setup-exercise-files/Pong/Content/Blueprints/BP_GameHUD.uasset"
+			]
+		}
+	]
+}
