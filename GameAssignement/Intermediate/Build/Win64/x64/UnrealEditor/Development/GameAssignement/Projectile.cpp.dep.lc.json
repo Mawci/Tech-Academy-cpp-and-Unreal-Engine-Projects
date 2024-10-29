@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\source\\gameassignement\\projectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\intermediate\\build\\win64\\x64\\gameassignementeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameassignement\\definitions.gameassignement.h",
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\source\\gameassignement\\projectile.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\intermediate\\build\\win64\\unrealeditor\\inc\\gameassignement\\uht\\projectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

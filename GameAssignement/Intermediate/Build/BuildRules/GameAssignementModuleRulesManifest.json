@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Nick\\Documents\\TechAcademy\\Tech-Academy-cpp-and-Unreal-Engine-Projects\\GameAssignement\\Source\\GameAssignement\\GameAssignement.Build.cs",
+		"C:\\Users\\Nick\\Documents\\TechAcademy\\Tech-Academy-cpp-and-Unreal-Engine-Projects\\GameAssignement\\Source\\GameAssignement.Target.cs",
+		"C:\\Users\\Nick\\Documents\\TechAcademy\\Tech-Academy-cpp-and-Unreal-Engine-Projects\\GameAssignement\\Source\\GameAssignementEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

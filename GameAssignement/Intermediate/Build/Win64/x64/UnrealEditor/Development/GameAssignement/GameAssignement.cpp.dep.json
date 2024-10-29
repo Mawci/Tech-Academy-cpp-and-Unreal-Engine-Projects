@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\source\\gameassignement\\gameassignement.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\intermediate\\build\\win64\\x64\\gameassignementeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameassignement\\definitions.gameassignement.h",
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\gameassignement\\source\\gameassignement\\gameassignement.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
