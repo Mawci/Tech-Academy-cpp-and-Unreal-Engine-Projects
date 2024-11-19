@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\nick\\downloads\\unreal-engine-4-blueprint-cplusplus-integration\\02-project-setup\\project-setup-exercise-files\\pong\\source\\pong\\gamehud.cpp",
+        "Source": "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\pong\\source\\pong\\gamehud.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\nick\\downloads\\unreal-engine-4-blueprint-cplusplus-integration\\02-project-setup\\project-setup-exercise-files\\pong\\intermediate\\build\\win64\\x64\\pongeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\pong\\intermediate\\build\\win64\\x64\\pongeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "c:\\users\\nick\\downloads\\unreal-engine-4-blueprint-cplusplus-integration\\02-project-setup\\project-setup-exercise-files\\pong\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pong\\definitions.pong.h",
-            "c:\\users\\nick\\downloads\\unreal-engine-4-blueprint-cplusplus-integration\\02-project-setup\\project-setup-exercise-files\\pong\\source\\pong\\gamehud.h",
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\pong\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pong\\definitions.pong.h",
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\pong\\source\\pong\\gamehud.h",
             "c:\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\userwidget.h",
             "c:\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetchild.h",
             "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetchild.generated.h",
@@ -35,7 +35,7 @@
             "c:\\ue_5.4\\engine\\source\\runtime\\umg\\public\\animation\\widgetanimationevents.h",
             "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetanimationevents.generated.h",
             "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\userwidget.generated.h",
-            "c:\\users\\nick\\downloads\\unreal-engine-4-blueprint-cplusplus-integration\\02-project-setup\\project-setup-exercise-files\\pong\\intermediate\\build\\win64\\unrealeditor\\inc\\pong\\uht\\gamehud.generated.h"
+            "c:\\users\\nick\\documents\\techacademy\\tech-academy-cpp-and-unreal-engine-projects\\pong\\intermediate\\build\\win64\\unrealeditor\\inc\\pong\\uht\\gamehud.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

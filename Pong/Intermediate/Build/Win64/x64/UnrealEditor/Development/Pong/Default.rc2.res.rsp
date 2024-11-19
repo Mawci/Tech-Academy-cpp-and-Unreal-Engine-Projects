@@ -80,5 +80,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=Pong
-/fo "C:\Users\Nick\Downloads\unreal-engine-4-blueprint-cplusplus-integration\02-project-setup\project-setup-exercise-files\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Default.rc2.res"
+/fo "C:\Users\Nick\Documents\TechAcademy\Tech-Academy-cpp-and-Unreal-Engine-Projects\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

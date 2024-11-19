@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodePong_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x5807B301,
+				0x6BAB612E,
 				0x3C5BBC4B,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodePong_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Pong.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Pong(Z_Construct_UPackage__Script_Pong, TEXT("/Script/Pong"), Z_Registration_Info_UPackage__Script_Pong, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x5807B301, 0x3C5BBC4B));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Pong(Z_Construct_UPackage__Script_Pong, TEXT("/Script/Pong"), Z_Registration_Info_UPackage__Script_Pong, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x6BAB612E, 0x3C5BBC4B));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
